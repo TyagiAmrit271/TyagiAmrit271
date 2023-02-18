@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @TyagiAmrit271
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently pursuing my B.Tech from Graphic Era Hill University
+- 👀 I'm a computer science enthusiast 
+- I post all the coding related stuff that i create here 
+- 🌱 I’m currently pursuing my B.Tech degree from Graphic Era Hill University
 - 📫 How to reach me email:- tyagi.amrit0127@gmail.com
 
 <!---
